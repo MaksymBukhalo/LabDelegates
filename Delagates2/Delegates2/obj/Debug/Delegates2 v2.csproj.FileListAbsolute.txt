@@ -1,0 +1,10 @@
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\obj\Debug\Delegates2 v2.csprojAssemblyReference.cache
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\obj\Debug\Delegates2 v2.csproj.GenerateResource.cache
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\obj\Debug\Delegates2 v2.csproj.CoreCompileInputs.cache
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\obj\Debug\Delegates2_v2.Form1.resources
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\bin\Debug\Delegates2.exe.config
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\bin\Debug\Delegates2.exe
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\bin\Debug\Delegates2.pdb
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\obj\Debug\Delegates2.Properties.Resources.resources
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\obj\Debug\Delegates2.exe
+C:\Users\Isao\RiderProjects\Delegates2 v2\Delegates2 v2\obj\Debug\Delegates2.pdb

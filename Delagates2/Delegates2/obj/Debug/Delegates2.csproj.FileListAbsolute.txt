@@ -1,0 +1,20 @@
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\bin\Debug\Delegates2.exe.config
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\bin\Debug\Delegates2.exe
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\bin\Debug\Delegates2.pdb
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\obj\Debug\Delegates2.csprojAssemblyReference.cache
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\obj\Debug\Delegates2.Form1.resources
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\obj\Debug\Delegates2.Properties.Resources.resources
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\obj\Debug\Delegates2.csproj.GenerateResource.cache
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\obj\Debug\Delegates2.csproj.CoreCompileInputs.cache
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\obj\Debug\Delegates2.exe
+C:\Users\Isao\RiderProjects\Delegates2\Delegates2\obj\Debug\Delegates2.pdb
+E:\University\OOP\task 2\Delegates2\bin\Debug\Delegates2.exe.config
+E:\University\OOP\task 2\Delegates2\bin\Debug\Delegates2.exe
+E:\University\OOP\task 2\Delegates2\bin\Debug\Delegates2.pdb
+E:\University\OOP\task 2\Delegates2\obj\Debug\Delegates2.csprojAssemblyReference.cache
+E:\University\OOP\task 2\Delegates2\obj\Debug\Delegates2.Form1.resources
+E:\University\OOP\task 2\Delegates2\obj\Debug\Delegates2.Properties.Resources.resources
+E:\University\OOP\task 2\Delegates2\obj\Debug\Delegates2.csproj.GenerateResource.cache
+E:\University\OOP\task 2\Delegates2\obj\Debug\Delegates2.csproj.CoreCompileInputs.cache
+E:\University\OOP\task 2\Delegates2\obj\Debug\Delegates2.exe
+E:\University\OOP\task 2\Delegates2\obj\Debug\Delegates2.pdb
